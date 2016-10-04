@@ -1,0 +1,9 @@
+# Temp files:
+*.orig
+*.bak
+*.ignore
+*.tmp
+*~
+[Tt]emp/
+Desktop.ini
+Thumbs.db
